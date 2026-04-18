@@ -28,4 +28,4 @@ This project simulates a small e-commerce database and performs data analysis us
    python main.py
 
 ## 👨‍💻 Author
-Your Name
+Dott. Rossi Riccrado
